@@ -1,6 +1,8 @@
 # Library_management_system
-Library Management System is a SQL project which made with Mysql. 
+Library Management System is a SQL project which made with Mysql.
+Library Management System repository consists of basic queries samples used in Mysql.
 
+Data Structure:
 The project consists of the following tables:
 
 members: Contains information about library members.
